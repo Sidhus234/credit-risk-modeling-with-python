@@ -43,19 +43,19 @@ The amount a lender might lose by lending to a borrower. The expected Loss is ca
 
 <h3>What can be estimated internally vs sourced from externa parties under different Credit Risk measuring approaches</h3>
 
-<img src="../Images/BaselI Accord allowed modeling.png" />
+<img src="./Images/BaselI Accord allowed modeling.png" />
 
 <h3>Capital held for Countries under Standardized Approach</h3>
 
-<img src="../Images/SA-Capital-countries.png" />
+<img src="./Images/SA-Capital-countries.png" />
 
 <h3>Capital held for Companies under Standardized Approach</h3>
 
-<img src="../Images/SA-Capital-companies.png" />
+<img src="./Images/SA-Capital-companies.png" />
 
 <h2><a id="modeltypes">3. Models for different components to measure Credit Risk</a></h2>
 
-<img src="../Images/modeltypes_for_differentcompoents.png" />
+<img src="./Images/modeltypes_for_differentcompoents.png" />
 
 Application model: Used in first stage - to make a decision on first application to extend loan. 
 
