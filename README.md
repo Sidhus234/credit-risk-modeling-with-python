@@ -53,3 +53,11 @@ The amount a lender might lose by lending to a borrower. The expected Loss is ca
 
 <img src="../Images/SA-Capital-companies.png" />
 
+<h2><a id="modeltypes">3. Models for different components to measure Credit Risk</a></h2>
+
+<img src="../Images/modeltypes_for_differentcompoents.png" />
+
+Application model: Used in first stage - to make a decision on first application to extend loan. 
+
+Behavioral Model: After loan is granted. Can also be used to check if additional loan should be granted.
+
