@@ -31,8 +31,8 @@ The amount a lender might lose by lending to a borrower. The expected Loss is ca
 <p>Basel II Accord defines <b>Minimum Capital Requirements</b> based on: </p>
 <ol>
 <li>Credit Risk<ol>
-<li>Standardized Approach (SA)</li>
-<li>Internal Ratings Based (IRB) Approaches<ul>
+<li>Standardized Approach (SA): Capital to be held should be a % of the total exposure. This is not very flexible and banks end up holding lot more capital than required.</li>
+<li>Internal Ratings Based (IRB) Approaches: Allows banks to establish their own credit ratings, have precise calculations about the held exposure capital for each individual exposure and allocate resources to cover losses. This in turn allows them to be more profitable.<ul>
 <li>Foundation Internal Ratings Based (F-IRB) Approach</li>
 <li>Advanced Internal Ratings Based (A-IRB) Approach</li>
 </ul></li>
@@ -40,3 +40,16 @@ The amount a lender might lose by lending to a borrower. The expected Loss is ca
 <li>Operational Risk</li>
 <li>Market Risk</li>
 </ol>
+
+<h3>What can be estimated internally vs sourced from externa parties under different Credit Risk measuring approaches</h3>
+
+<img src="../Images/BaselI Accord allowed modeling.png" />
+
+<h3>Capital held for Countries under Standardized Approach</h3>
+
+<img src="../Images/SA-Capital-countries.png" />
+
+<h3>Capital held for Companies under Standardized Approach</h3>
+
+<img src="../Images/SA-Capital-companies.png" />
+
