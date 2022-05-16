@@ -61,3 +61,14 @@ Application model: Used in first stage - to make a decision on first application
 
 Behavioral Model: After loan is granted. Can also be used to check if additional loan should be granted.
 
+
+<h2><a id="dependentvar">4. Dependent Variables</a></h2>
+
+<ol>
+<li>PD Model: Logistic Regression (Loan Status variable)</li>
+<li>LGD Model: Beta Regression (Recoveries)</li>
+<li>EAD Model: Beta Regression(Total recovered principle column)</li>
+</ol>
+
+
+<h2><a id="featureprocessing">5. Feature Processing</a></h2>
